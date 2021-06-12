@@ -25,7 +25,7 @@ const Login = () => {
             auth.signInWithRedirect(new firebase.auth.FacebookAuthProvider())
           }
         >
-          <FacebookOutlined /> Sign In with Google
+          <FacebookOutlined /> Sign In with Facebook
         </div>
       </div>
     </div>
